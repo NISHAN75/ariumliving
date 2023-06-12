@@ -1,0 +1,7 @@
+<svg id="Group_203" data-name="Group 203" xmlns="http://www.w3.org/2000/svg" width="91.042" height="91.041" viewBox="0 0 91.042 91.041">
+  <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(0 0)" fill="#e17262" stroke="#e17262" stroke-width="2">
+    <ellipse cx="45.521" cy="45.521" rx="45.521" ry="45.521" stroke="none"/>
+    <ellipse cx="45.521" cy="45.521" rx="44.521" ry="44.521" fill="none"/>
+  </g>
+  <path id="Line_Arrow_Right" data-name="Line Arrow Right" d="M5.246,0,0,5.352,16.112,21.464,32.223,5.352,26.978,0,16.112,10.972Z" transform="translate(56.252 29.411) rotate(90)" fill="#fff"/>
+</svg>

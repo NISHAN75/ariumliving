@@ -1,0 +1,334 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .sub-nav {
+    text-align: center;
+  }
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .sub-nav {
+    text-align: center;
+  }
+  .sub-nav-bar {
+    text-align: center !important;
+  }
+  .meet-content {
+    margin-top: 40px;
+}
+
+.featured-slider .owl-nav button {
+    left: 10px;
+  }
+  .featured-slider button.owl-next {
+    left: auto;
+    right: 10px;
+  }
+  .featured-slider .owl-nav button {
+    height: 40px;
+    width: 40px;
+}
+  .featured-slider .owl-nav button span {
+    font-size: 45px;
+    top: -18px;
+    left: 12px;
+}
+.about-area, .participate-area {
+    text-align: center;
+    margin-top: -100px;
+}
+.about-img {
+    margin-bottom: 25px;
+}
+.participate-info.mr-50 , .about-info.ml-50  {
+    margin: 0;
+}
+.paraticpte-img {
+    margin-top: 25px;
+} 
+section.schedule-area.my-100 {
+    margin-top: -50px;
+}
+.schedule-content.text-center {
+    margin-top: 25px;
+}
+section.show-details-area.my-100 {
+    margin-top: -50px;
+    text-align: center;
+}
+.d-flex.mb-25.details-btn {
+    justify-content: center;
+}
+section.artists-area.my-100 {
+    margin-top: -50px;
+    margin-bottom: 0;
+}
+a.logo-img img {
+    margin: 30px 0;
+}
+.banner-area {
+    padding: 80px 0;
+}
+.text-input {
+    display: flex;
+    flex-wrap: wrap;
+}
+.contact-form .form-group {
+  min-width: 100%;
+}
+
+}
+/* Tablet & Mobile Layout: 991px. Only for desktop and tablet */
+@media only screen and (min-width: 991px) {
+  .sub-nav {
+    text-align: center;
+  }
+  .banner-content h1 {
+    font-size: 40px;
+    font-weight: 400;
+  }
+  .meet-content {
+    margin-top: 40px;
+}
+
+
+
+}
+@media only screen and (max-width: 767px) {
+  .sub-nav {
+    text-align: center;
+  }
+  .sub-nav-bar {
+    text-align: center !important;
+  }
+  .banner-content h1 {
+    font-size: 40px;
+    font-weight: 400;
+  }
+  .featured-slider .owl-nav button {
+    left: -60px;
+  }
+  .featured-slider button.owl-next {
+    left: auto;
+    right: -60px;
+  }
+  .featured-slider .owl-nav button {
+    height: 40px;
+    width: 40px;
+}
+  .featured-slider .owl-nav button span {
+    font-size: 45px;
+    top: -18px;
+    left: 12px;
+}
+  .meet-content {
+    margin-top: 40px;
+}
+.about-area, .participate-area {
+    text-align: center;
+    margin-top: -100px;
+}
+.about-img {
+    margin-bottom: 25px;
+}
+.about-info p, .participate-info p, .details-para p {
+    font-size: 16px;
+}
+.participate-info.mr-50 , .about-info.ml-50 {
+    margin: 0;
+}
+.paraticpte-img {
+    margin-top: 25px;
+} 
+section.schedule-area.my-100 {
+    margin-top: -50px;
+}
+.schedule-content.text-center {
+    margin-top: 25px;
+}
+section.show-details-area.my-100 {
+    margin-top: -50px;
+    text-align: center;
+}
+.d-flex.mb-25.details-btn {
+    justify-content: center;
+}
+section.artists-area.my-100 {
+    margin-top: -50px;
+    margin-bottom: 0;
+}
+a.logo-img img {
+    margin: 30px 0;
+}
+.banner-area {
+    padding: 80px 0;
+}
+.text-input {
+    display: flex;
+    flex-wrap: wrap;
+}
+.contact-form .form-group {
+  min-width: 100%;
+}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (max-width: 480px) {
+  .sub-nav {
+    text-align: center;
+  }
+  .btn {
+    margin: 0;
+    margin-top: 25px;
+  }
+  .banner-content h1 {
+    font-size: 40px;
+    font-weight: 400;
+  }
+  .featured-slider .owl-nav button {
+    left: 10px;
+  }
+  .featured-slider button.owl-next {
+    left: auto;
+    right: 10px;
+  }
+  .featured-slider .owl-nav button {
+    height: 40px;
+    width: 40px;
+}
+  .featured-slider .owl-nav button span {
+    font-size: 45px;
+    top: -18px;
+    left: 12px;
+}
+  .meet-content {
+    margin-top: 40px;
+}
+.about-area, .participate-area {
+    text-align: center;
+    margin-top: -100px;
+}
+.about-img {
+    margin-bottom: 25px;
+}
+.about-info p, .participate-info p, .details-para p {
+    font-size: 16px;
+}
+.participate-info.mr-50 , .about-info.ml-50 {
+    margin: 0;
+}
+
+.paraticpte-img {
+    margin-top: 25px;
+}
+section.schedule-area.my-100 {
+    margin-top: -50px;
+}
+.schedule-content.text-center {
+    margin-top: 25px;
+}
+section.show-details-area.my-100 {
+    margin-top: -50px;
+    text-align: center;
+}
+.d-flex.mb-25.details-btn {
+    justify-content: center;
+}
+.show-details-content.mr-80 {
+    margin: 0;
+}
+section.artists-area.my-100 {
+    margin-top: -50px;
+    margin-bottom: 0;
+}
+a.logo-img img {
+    margin: 30px 0;
+}
+.banner-area {
+    padding: 80px 0;
+}
+.text-input {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 320px) {
+  .sub-nav {
+    text-align: center;
+  }
+  .banner-content h1 {
+    font-size: 40px;
+    font-weight: 400;
+  }
+  .featured-slider .owl-nav button {
+    left: 10px;
+  }
+  .featured-slider button.owl-next {
+    left: auto;
+    right: 10px;
+  }
+  .featured-slider .owl-nav button {
+    height: 40px;
+    width: 40px;
+}
+  .featured-slider .owl-nav button span {
+    font-size: 45px;
+    top: -18px;
+    left: 12px;
+}
+.about-area, .participate-area {
+    text-align: center;
+    margin-top: -100px;
+}
+.about-img {
+    margin-bottom: 25px;
+}
+.section-title h4, .about-info h2, .participate-info h2, .show-details-content h4 {
+    font-size: 25px;
+    font-weight: 500;
+
+}
+.about-info p, .participate-info p, .details-para p {
+    font-size: 16px;
+}
+.participate-info.mr-50 , .about-info.ml-50 {
+    margin: 0;
+}
+.paraticpte-img {
+    margin-top: 25px;
+} 
+section.schedule-area.my-100 {
+    margin-top: -50px;
+}
+.schedule-content.text-center {
+    margin-top: 25px;
+}
+section.show-details-area.my-100 {
+    margin-top: -50px;
+    text-align: center;
+}
+.d-flex.mb-25.details-btn {
+    justify-content: center;
+}
+.show-details-content.mr-80 {
+    margin: 0;
+}
+section.artists-area.my-100 {
+    margin-top: -50px;
+    margin-bottom: 0;
+}
+a.logo-img img {
+    margin: 30px 0;
+}
+.banner-area {
+    padding: 80px 0;
+}
+.text-input {
+    display: flex;
+    flex-wrap: wrap;
+}
+input[type=text] {
+    padding: 10px;
+    min-width: 394px;
+}
+}
